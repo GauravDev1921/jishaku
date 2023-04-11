@@ -236,11 +236,11 @@ If you'd like to test the latest versions of jishaku, you can do so by downloadi
 
 > From GitHub:
 > ```bash
-> pip install -U "jishaku @ git+https://github.com/Gorialis/jishaku@master"
+> pip install -U "jishaku @ git+https://github.com/GauravDev1921/jishaku@master"
 > ```
 > From GitLab:
 > ```bash
-> pip install -U "jishaku @ git+https://gitlab.com/Gorialis/jishaku@master"
+> pip install -U "jishaku @ git+https://github.com/GauravDev1921/jishaku@master"
 > ```
 
 Please note that the new 2020 dependency resolver now no longer discounts git package sources from reinstall prevention,
@@ -250,11 +250,11 @@ If you run into such a problem, you can force jishaku to be reinstalled like thi
 
 > From GitHub:
 > ```bash
-> pip install -U --force-reinstall "jishaku @ git+https://github.com/Gorialis/jishaku@master"
+> pip install -U --force-reinstall "jishaku @ git+https://github.com/GauravDev1921/jishaku@master"
 > ```
 > From GitLab:
 > ```bash
-> pip install -U --force-reinstall "jishaku @ git+https://gitlab.com/Gorialis/jishaku@master"
+> pip install -U --force-reinstall "jishaku @ githttps://github.com/GauravDev1921/jishaku@master"
 > ```
 
 You **must** have installed jishaku with one of the commands above before doing this else you will probably end up with a broken installation.
